@@ -1,5 +1,5 @@
 - 🔭 Planejando trabalhar com back-end
-- 🌱 Estudando html, python e MySql
+- 🌱 Estudando Html, Python e MySql
 - 📫 Contato: jhonemauell@hotmail.com
 
 <div align="center">
