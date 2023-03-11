@@ -1,6 +1,6 @@
-- 🔭 Planejando trabalhar com back-end
-- 🌱 Estudando Html, Python e MySql
-- 📫 Contato: jhonemauell@hotmail.com
+- 🔭 Estudante de programação
+- 🌱 Estudando Html5 e CSS3, Python, Java e MySql
+- 📫 Contato: jhonatasaraujo08@outlook.com
 
 <div align="center">
   <a href="https://github.com/Jhonatas-Araujo">
